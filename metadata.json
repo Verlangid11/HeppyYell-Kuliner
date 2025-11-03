@@ -1,0 +1,7 @@
+{
+  "name": "Heppy Yell - Authentic Padang Cuisine",
+  "description": "A modern, culinary-style landing page for 'Heppy Yell', an Indonesian Padang food brand. The site features a dynamic menu, dark mode, and an admin panel for product management. It also integrates Gemini for content generation and location-based searches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
